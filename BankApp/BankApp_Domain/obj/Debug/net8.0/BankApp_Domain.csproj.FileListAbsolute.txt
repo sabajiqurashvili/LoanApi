@@ -1,0 +1,12 @@
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\bin\Debug\net8.0\BankApp_Domain.deps.json
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\bin\Debug\net8.0\BankApp_Domain.dll
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\bin\Debug\net8.0\BankApp_Domain.pdb
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\obj\Debug\net8.0\BankApp_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\obj\Debug\net8.0\BankApp_Domain.AssemblyInfoInputs.cache
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\obj\Debug\net8.0\BankApp_Domain.AssemblyInfo.cs
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\obj\Debug\net8.0\BankApp_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\obj\Debug\net8.0\BankApp_Domain.sourcelink.json
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\obj\Debug\net8.0\BankApp_Domain.dll
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\obj\Debug\net8.0\refint\BankApp_Domain.dll
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\obj\Debug\net8.0\BankApp_Domain.pdb
+C:\Users\Jikura\Desktop\davalebebi\Homeworks\BankApp\BankApp_Domain\obj\Debug\net8.0\ref\BankApp_Domain.dll
